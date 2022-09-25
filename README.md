@@ -23,7 +23,7 @@ were not feasible to include in Invoke-Obfuscation.
 
 This was the point that led me to shift this cradle research into a separate
 project altogether, though you can always take output from Invoke-
-CradleCrafter and intput it into Invoke-Obfuscation and continue the fun.
+CradleCrafter and input it into Invoke-Obfuscation and continue the fun.
 Since Invoke-CradleCrafter is much more tightly controlled, it has enabled 
 me to include obfuscation techniques that are completely unlike any 
 technique found in Invoke-Obfuscation.
